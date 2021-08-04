@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Beak%20Seung%20Han&fontSize=90&animation=twinkling")
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Beak%20Seung%20Han&fontSize=90&animation=twinkling&")
 
 ## 😄 Tech Stack 
 
